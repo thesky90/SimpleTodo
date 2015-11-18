@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SimpleTodo</string>
+    <string name="edit_title">Edit item below:</string>
+    <string name="edit_priority">Edit priority below:</string>
+    <string name="save_edit_title">Saved!</string>
+    <string-array name="property_array">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+</resources>
